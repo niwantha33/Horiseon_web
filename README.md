@@ -6,7 +6,8 @@ What motivated me to do this project was it's current status of limited accessib
 
 While working in this project, I learnt HTML semantic elements, accessibility features and SEO. 
 
-<iframe src="https://drive.google.com/file/d/1sZ4yLzga6-2co6vJI9VGRmhPCKEkcSXf/preview" width="640" height="480"></iframe>
+[![video_link](assets/images/video_link.png)](https://drive.google.com/file/d/1sZ4yLzga6-2co6vJI9VGRmhPCKEkcSXf/preview)
+
 
 ## Table of Contents (Optional)
 
@@ -16,8 +17,7 @@ While working in this project, I learnt HTML semantic elements, accessibility fe
 - [License](#license)
 
 ## Installation
-
-<iframe src="https://drive.google.com/file/d/1sZ4yLzga6-2co6vJI9VGRmhPCKEkcSXf/preview" width="640" height="480"></iframe>
+[![Video_link_2](assets/images/video_link.png)](https://www.youtube.com/watch?v=B-mZdo9XzCc)
 
 1. create repo
 ![create repo](assets/images/create_repo.png)
@@ -41,12 +41,3 @@ While working in this project, I learnt HTML semantic elements, accessibility fe
 [Image alt attributes](https://www.w3schools.com/tags/att_img_alt.asp)
 
 
-
-## License
-
-NA
-
-## Tests
-
-
-![Test](assets/images/test.png) 
