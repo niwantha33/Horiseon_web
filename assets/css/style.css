@@ -3,9 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* changed contrast */
 body {
     background-color: #d9dcd6;
+    filter: brightness(120%);
+    filter: contrast(120%);
 }
 
 .header {
@@ -56,8 +58,7 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-    filter: brightness(120%);
-    filter: contrast(120%);
+
 }
 
 .float-left {
