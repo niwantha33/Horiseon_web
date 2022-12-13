@@ -23,6 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+/* removed div  */
 
 .header ul {
     padding-top: 15px;
@@ -33,8 +34,6 @@ body {
     list-style-type: none;
     justify-content: space-between;
 }
-
-
 
 .header  ul li {
     display: inline-block;
