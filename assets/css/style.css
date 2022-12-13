@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
     filter: brightness(120%);
-    filter: contrast(120%);
+    filter: contrast(150%);
 }
 
 .header {
@@ -203,5 +203,5 @@ p {
 /* adjust image contrast  */
 img {
     filter: brightness(120%);
-    filter: contrast(120%);
+    filter: contrast(150%);
  }
