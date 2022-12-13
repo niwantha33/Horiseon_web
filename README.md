@@ -1,19 +1,18 @@
-# <Your-Project-Title>
+# Improve Accessibility Of the Site. 
 
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+What motivated me to do this project was it's current status of limited accessibility.I wanted to improve the accessibility so that it will increase the and search engine optimization.Since the existing code was developed using non-semantic elements and without accessibility feature, the site's SEO was limited.By building this project, the site will standout amongst its competitors and will be easy access to anyone including people with special needs.
+
+While working in this project, I learnt HTML semantic elements, accessibility features and SEO.
 
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- [Installation](#installation)
+- [Installation](#installation) https://drive.google.com/file/d/1sZ4yLzga6-2co6vJI9VGRmhPCKEkcSXf/view
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
